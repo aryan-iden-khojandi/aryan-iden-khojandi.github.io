@@ -1,7 +1,9 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://dl.acm.org/doi/10.1287/inte.2019.1013
+    url: /publications/
+
+    https://dl.acm.org/doi/10.1287/inte.2019.1013
 
   - title: "Talks"
     url: /talks/    
@@ -16,7 +18,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: Resume.pdf
+    url: /cv/
     
   - title: "Guide"
     url: /markdown/
